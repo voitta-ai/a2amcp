@@ -1,0 +1,7 @@
+openai
+python-dotenv
+python-a2a>=0.5.1
+pydantic
+fastapi
+uvicorn
+requests
