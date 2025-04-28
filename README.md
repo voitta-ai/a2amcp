@@ -4,5 +4,5 @@ This project implements a dispatcher agent using Google's Agent Development Kit 
 
 ## References
 
-- [Google ADK Documentation - LLM Agents](https://google.github.io/adk-docs/agents/llm-agents/#full-code-example)
-- [Google ADK Documentation - Custom Agents](https://google.github.io/adk-docs/agents/custom-agents/#full-code-example)
+- [A2A Protocol](https://google.github.io/A2A/#/)
+- [Google ADK Documentation](https://google.github.io/adk-docs/)
